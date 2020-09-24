@@ -1,0 +1,16 @@
+D:\project\LoggerClient\LoggerClient\bin\Debug\LoggerClient.exe.config
+D:\project\LoggerClient\LoggerClient\bin\Debug\LoggerClient.exe
+D:\project\LoggerClient\LoggerClient\bin\Debug\LoggerClient.pdb
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient.csprojAssemblyReference.cache
+D:\project\LoggerClient\LoggerClient\obj\Debug\MainWindow.g.cs
+D:\project\LoggerClient\LoggerClient\obj\Debug\App.g.cs
+D:\project\LoggerClient\LoggerClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient_MarkupCompile.cache
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient_MarkupCompile.lref
+D:\project\LoggerClient\LoggerClient\obj\Debug\MainWindow.baml
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient.g.resources
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient.Properties.Resources.resources
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient.csproj.GenerateResource.cache
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient.csproj.CoreCompileInputs.cache
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient.exe
+D:\project\LoggerClient\LoggerClient\obj\Debug\LoggerClient.pdb
